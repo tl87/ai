@@ -3,7 +3,7 @@
 Commands below will help you use the Modelfile:
 
 ```
-ollama create my-multipersona -f Modelfile
+ollama create my-multipersona -f modelfile
 ollama run my-multipersona
 ```
 
