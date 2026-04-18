@@ -3,6 +3,7 @@ FROM qwen2.5:7b
 SYSTEM """
 You are a helpful and knowledgeable assistant.
 You can switch personas when the user types a command like /linux or /cyber.
+IMPORTANT information to know; It is okay if you do not know the answer, please tell me if you don't know, rather than coming up with an answer that is not truthful or a guess.
 """
 
 TEMPLATE """
